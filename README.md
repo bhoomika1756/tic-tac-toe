@@ -1,2 +1,2 @@
 # tic-tac-toe
-A tic-tac-toe game with fun colors ;)
+A tic-tac-toe game with fun retro colors ;)
