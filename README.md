@@ -1,4 +1,6 @@
 A Tic-Tac-Toe game with fun retro colors :)
 
 Gameplay Demo:
-<img src="TicTacToe 2025-07-20T01-21-51.mlt" width="550" alt="Tic Tac Toe Gameplay">
+https://github.com/user-attachments/assets/8527685b-166a-4dc1-9033-ec500039294b
+
+
